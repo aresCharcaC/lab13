@@ -1,5 +1,6 @@
 package com.example.lab13
 
+import Lab13Exercise4
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -21,7 +22,9 @@ class MainActivity : ComponentActivity() {
                 ) {
                     //Lab13()
                     //Lab13Exercise2()
-                    Lab13Exercise3()
+                    //Lab13Exercise3()
+                    Lab13Exercise4()
+
 
                 }
             }
